@@ -19,11 +19,11 @@ const faysal = {
   location: "Morocco",
   education: ["Technicien Spécialisé en Développement Digital"],
   learning: {
-    rightNow: ["ReactJS", "TailwindCSS", "Advanced JS"],
+    rightNow: ["Android", "IOS", "ReactJS", "TailwindCSS", "Advanced JS"],
     upNext: ["Node.js", "Express.js", "MongoDB"]
   },
   interests: {
-    professional: ["Web Development", "UI/UX Design", "Cloud Computing", "AI"],
+    professional: ["Mobile & Web Development", "UI/UX Design", "Cloud Computing", "AI"],
     personal: ["Problem Solving", "Content Creation"]
   },
   challenge: "I'm always ready for the next one."
