@@ -62,10 +62,17 @@ const faysal = {
 ### 📊 My GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AX-RF&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&border_radius=10" height="160" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AX-RF&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" height="160" alt="Top Languages" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=l3allawi&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10"
+    height="160"
+    alt="GitHub Stats"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=l3allawi&layout=compact&theme=tokyonight&hide_border=true&border_radius=10"
+    height="160"
+    alt="Top Languages"
+  />
 </div>
-
 ---
 
 ### 🌎 Connect With Me
