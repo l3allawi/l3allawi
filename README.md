@@ -57,23 +57,6 @@ const faysal = {
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/></a>
 </div>
 
----
-
-### 📊 My GitHub Stats
-
-<div align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=l3allawi&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10"
-    height="160"
-    alt="GitHub Stats"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=l3allawi&layout=compact&theme=tokyonight&hide_border=true&border_radius=10"
-    height="160"
-    alt="Top Languages"
-  />
-</div>
----
 
 ### 🌎 Connect With Me
 
