@@ -56,7 +56,7 @@ Web and Mobile Developer
   <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
 
-<a href="https://www.stackoverflow.com/users/faysal" alt="Stackoverflow">
+<a href="https://stackoverflow.com/users/23145767/faysal" alt="Stack Over Flow">
   <img src="https://skillicons.dev/icons?i=stackoverflow" />
 </a>
 </p>
