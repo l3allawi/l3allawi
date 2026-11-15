@@ -90,7 +90,7 @@ Web and Mobile Developer
 ### Socials
 
 
-<a href="https://https://www.instagram.com/faysal.elallaoui/">
+<a href="https://www.instagram.com/faysal.elallaoui/">
     <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
 
