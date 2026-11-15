@@ -1,13 +1,62 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4335574e.gif) My name is Elallaoui Faysal
-=========================================================================================================================================
+<img src="https://capsule-render.vercel.app/api?type=wave&color=38BDF8&width=100%&height=150§ion=header"/>
 
-Web and Mobile Developer
-------------------------
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=5000&pause=1000&color=38BDF8¢er=true&vCenter=true&width=600&lines=Hi+there,+I'm+Faysal+Elallaoui;An+App+Developer+from+Morocco;I'm+App+Developer." alt="Typing SVG" />
+</div>
 
-* 🌍  I'm based in Rabat, Morocco
-* 🖥️  See my portfolio at [MyPortfolio](http://faysalweb.vercel.app/)
-* ✉️  You can contact me at [faysalelallaoui0@gmail.com](mailto:faysalelallaoui0@gmail.com)
+<!-- Top Wave Animation -->
 
+---
+
+### 
+
+<h3 align="left">About Me :</h3>
+
+
+```javascript
+
+// Passionate developer focused on building modern, scalable, and user-friendly
+// applications. I enjoy turning ideas into practical solutions through clean
+// code, thoughtful UI/UX, and continuous learning.
+
+const faysal = {
+  location: "Morocco 🇲🇦",
+  
+  education: {
+    degree: "Technicien Spécialisé en Développement Digital",
+    institution: "CMC Rabat"
+  },
+
+  expertise: {
+    mobile: ["Flutter", "Dart", "Kotlin", "Android", "Firebase"],
+    web: ["JavaScript", "React.js", "HTML", "CSS", "Tailwind CSS"],
+    backend: ["PHP", "MySQL", "REST APIs"],
+    tools: ["Git", "GitHub", "Figma", "Android Studio"]
+  },
+
+  currentlyExploring: [
+    "iOS Development",
+    "Advanced JavaScript",
+    "TypeScript",
+    "Node.js",
+    "Cloud Computing",
+    "Artificial Intelligence"
+  ],
+
+  interests: [
+    "Mobile & Web Development",
+    "UI/UX Design",
+    "Software Architecture",
+    "Cloud Technologies",
+    "AI-Powered Applications",
+    "Problem Solving"
+  ],
+
+  mindset: "Learn, Build, Improve, Repeat."
+};
+
+```
+---
 
 ###
 
@@ -15,7 +64,7 @@ Web and Mobile Developer
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,dart,git,java,js,ts,swift,py,php,kotlin,spring,vscode,html,react,nextjs,vue,nuxtjs,gatsby,angular,jquery,css,tailwind,bootstrap,vite,nodejs,express,fastapi,graphql,mongodb,mysql,postgres,supabase,flask,firebase,figma,gcp,azure,wordpress,arduino,raspberrypi,linux,ubuntu,django,laravel,flutter,aws,blender,docker,tensorflow,github,linkden,instagram" />
+    <img src="https://skillicons.dev/icons?i=c,dart,git,java,js,ts,swift,py,php,kotlin,spring,vscode,html,react,nextjs,vue,nuxtjs,gatsby,angular,jquery,css,tailwind,bootstrap,vite,nodejs,express,fastapi,graphql,mongodb,mysql,postgres,supabase,flask,firebase,figma,gcp,azure,wordpress,arduino,raspberrypi,linux,ubuntu,django,laravel,flutter,aws,blender,docker,tensorflow" />
   </a>
 </p>
 
