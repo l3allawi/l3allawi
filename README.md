@@ -9,7 +9,7 @@ Web and Mobile Developer
 * ✉️  You can contact me at [faysalelallaoui0@gmail.com](mailto:faysalelallaoui0@gmail.com)
 
 
-<p align="left">
+<!-- <p align="left">
   <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" alt="C" title="C" width="50" height="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://dart.dev/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dart-colored.svg" alt="Dart" title="Dart" width="50" height="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://git-scm.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="50" height="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -66,6 +66,25 @@ Web and Mobile Developer
   <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" alt="Docker" title="Docker" width="50" height="50" /></a>&nbsp;&nbsp;
   <a href="https://www.tensorflow.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" alt="TensorFlow" title="TensorFlow" width="50" height="50" /></a>
 </p>
+-->
+
+
+###
+
+<h3 align="center">Languages and Tools:</h3>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,anaconda,androidstudio,arduino,aws,bash,blender,c,cs,cpp,cloudflare,css,django,azure,figma,flutter,github,html,ai,linux,kali,mongodb,docker,mysql,notion,ps,postgres,powershell,processing,pycharm,py,raspberrypi,redhat,replit,sqlite,sklearn,emacs,nodejs,matlab,md,js,java,swift,tailwind,tensorflow,ubuntu,unity,visualstudio,vscode,gmail,gitlab,flask,wordpress,windows,vim,react,r,opencv,stackoverflow,php" />
+  </a>
+</p>
+
+
+
+
+
+
+
 
 
 ### Socials
