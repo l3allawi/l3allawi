@@ -133,12 +133,12 @@ const faysal = {
 <div align="center">
   <img
     src="https://github-readme-streak-stats.herokuapp.com/?user=l3allawi"
-    alt="GitHub Streak Stats"
+    alt="GitHub Streak"
     height="180"
   />
 
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=l3allawi&layout=compact&theme=default&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=l3allawi&layout=compact"
     alt="Top Languages"
     height="180"
   />
