@@ -75,7 +75,7 @@ Web and Mobile Developer
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,anaconda,androidstudio,arduino,aws,bash,blender,c,cs,cpp,cloudflare,css,django,azure,figma,flutter,github,html,ai,linux,kali,mongodb,docker,mysql,notion,ps,postgres,powershell,processing,pycharm,py,raspberrypi,redhat,replit,sqlite,sklearn,emacs,nodejs,matlab,md,js,java,swift,tailwind,tensorflow,ubuntu,unity,visualstudio,vscode,gmail,gitlab,flask,wordpress,windows,vim,react,r,opencv,stackoverflow,php" />
+    <img src="https://skillicons.dev/icons?i=C,Dart,Git,Java,JavaScript,TypeScript,Swift,Python,PHP,Kotlin,Spring Boot,VS Code,HTML5,React,Next.js,Vue.js,Nuxt.js,Gatsby,Angular,jQuery,CSS3,Tailwind CSS,Bootstrap,Vite,Node.js,Express.js,FastAPI,GraphQL,Oracle,MongoDB,MySQL,PostgreSQL,Supabase,Render,Flask,Firebase,Figma,Sketch,Google Cloud,Microsoft Azure,WordPress,Framer,Arduino,Raspberry Pi,Linux,Ubuntu,Fedora,Django,Laravel,Flutter,AWS,Blender,DigitalOcean,Docker,TensorFlow" />
   </a>
 </p>
 
