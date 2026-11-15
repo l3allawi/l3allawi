@@ -113,7 +113,7 @@ const faysal = {
 
 
 
-### 📈 GitHub Analytics
+### GitHub Analytics
 
 <div align="center">
    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=l3allawi&theme=github_dark" alt="Profile Details">
@@ -121,7 +121,7 @@ const faysal = {
 
 <div align="center">
    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=l3allawi&theme=github_dark" alt="Top Languages">
-   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=&theme=github_dark" alt="Most Commit Language">
+   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=l3allawi&theme=github_dark" alt="Most Commit Language">
 </div>
 
 <div align="center">
@@ -130,13 +130,18 @@ const faysal = {
 </div>
 
 
-<div align="center" style="display: flex; justify-content: center; gap: 20px;">
-   <a target="blank">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=l3allawi" alt="Streak Stats" height="300" width="400" />
-   </a>
-   <a target="blank">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=l3allawi&show_icons=true&locale=en&layout=compact" alt="Top Languages" height="300" width="285" />
-   </a>
+<div align="center">
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=l3allawi"
+    alt="GitHub Streak Stats"
+    height="180"
+  />
+
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=l3allawi&layout=compact&theme=default&hide_border=true"
+    alt="Top Languages"
+    height="180"
+  />
 </div>
 
 
