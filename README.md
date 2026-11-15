@@ -75,7 +75,7 @@ Web and Mobile Developer
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,dart,git,java,js,ts,swift,py,php,kotlin,spring,vscode,html,react,nextjs,vue,nuxtjs,gatsby,angular,jquery,css,tailwind,bootstrap,vite,nodejs,express,fastapi,graphql,mongodb,mysql,postgres,supabase,flask,firebase,figma,gcp,azure,wordpress,arduino,raspberrypi,linux,ubuntu,django,laravel,flutter,aws,blender,docker,tensorflow" />
+    <img src="https://skillicons.dev/icons?i=c,dart,git,java,js,ts,swift,py,php,kotlin,spring,vscode,html,react,nextjs,vue,nuxtjs,gatsby,angular,jquery,css,tailwind,bootstrap,vite,nodejs,express,fastapi,graphql,mongodb,mysql,postgres,supabase,flask,firebase,figma,gcp,azure,wordpress,arduino,raspberrypi,linux,ubuntu,django,laravel,flutter,aws,blender,docker,tensorflow,github,linkden,instagram" />
   </a>
 </p>
 
