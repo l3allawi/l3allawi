@@ -136,12 +136,6 @@ const faysal = {
     alt="GitHub Streak"
     height="180"
   />
-
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=l3allawi&layout=compact"
-    alt="Top Languages"
-    height="180"
-  />
 </div>
 
 
