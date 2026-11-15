@@ -72,7 +72,7 @@ const faysal = {
 ####
 
 
-<h3 align="left">Socials :</h3>
+<h3 align="left">Connect With Me :</h3>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/faysal-elallaoui/" alt="Linkedin">
