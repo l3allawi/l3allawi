@@ -138,8 +138,8 @@ const faysal = {
     width="100%"
   />
 </div>
-### 
 
+###
 <p align="center">
 <img src="https://raw.githubusercontent.com/xdweeb/xdweeb/output/snake.svg" alt="Snake animation" />
 </p>
