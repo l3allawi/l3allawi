@@ -135,6 +135,7 @@ const faysal = {
     src="https://github-readme-streak-stats.herokuapp.com/?user=l3allawi"
     alt="GitHub Streak"
     height="180"
+    width="100%"
   />
 </div>
 
