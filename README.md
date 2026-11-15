@@ -83,16 +83,23 @@ Web and Mobile Developer
 
 
 
+<h3 align="center">Socials:</h3>
 
+<a href="https://www.linkedin.com/faysal-elallaoui/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
 
+  <a href="https://www.github.com/l3allawi/">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
 
-
-### Socials
-
+  <a href="https://www.discord.com/elallaoui2006/">
+    <img src="https://skillicons.dev/icons?i=discord" />
+  </a>
 
 <a href="https://www.instagram.com/faysal.elallaoui/">
-    <img src="https://skillicons.dev/icons?i=instagram" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=instagram" />
+</a>
 
 
 
