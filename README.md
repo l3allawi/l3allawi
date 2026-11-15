@@ -109,11 +109,6 @@ const faysal = {
   <img src="https://skillicons.dev/icons?i=stackoverflow" />
 </a>
 
-
-<a href="https://stackoverflow.com/users/23145767/faysal" alt="Stack Over Flow">
-  <img src="https://skillicons.dev/icons?i=portfolio" />
-</a>
-
 </p>
 
 
