@@ -52,8 +52,8 @@ Web and Mobile Developer
 </a>
 
 
-<a href="https://www.behance.com/faysal17" style="text-decoration: none; color: inherit;">
-  <img src="https://skillicons.dev/icons?i=behance" />
+<a href="mailto:faysalelallaoui0@gmail.com" style="text-decoration: none; color: inherit;">
+  <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
 
 <a href="https://www.stackoverflow.com/users/faysal" style="text-decoration: none; color: inherit;">
