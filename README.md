@@ -26,37 +26,37 @@ Web and Mobile Developer
 <h3 align="left">Socials :</h3>
 
 <p align="center">
-<a href="https://www.linkedin.com/faysal-elallaoui/" style="text-decoration: none; color: inherit;">
+<a href="https://www.linkedin.com/in/faysal-elallaoui/" alt="Linkedin">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 
-  <a href="https://www.github.com/l3allawi/" style="text-decoration: none; color: inherit;">
+  <a href="https://www.github.com/l3allawi/"  alt="Github" >
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
 
-  <a href="https://www.discord.com/elallaoui2006/" style="text-decoration: none; color: inherit;">
+  <a href="https://discord.com/users/1182081645638074396"  alt="Discord">
     <img src="https://skillicons.dev/icons?i=discord" />
   </a>
 
-<a href="https://www.instagram.com/faysal.elallaoui/" style="text-decoration: none; color: inherit;">
+<a href="https://www.instagram.com/faysal.elallaoui/"  alt="Instagram">
   <img src="https://skillicons.dev/icons?i=instagram" />
 </a>
 
-<a href="https://www.x.com/FaysalE9584" style="text-decoration: none; color: inherit;">
+<a href="https://www.x.com/FaysalE9584"  alt="Twitter">
   <img src="https://skillicons.dev/icons?i=twitter" />
 </a>
 
 
-<a href="https://www.gitlab.com/l3allawi" style="text-decoration: none; color: inherit;">
+<a href="https://www.gitlab.com/l3allawi"  alt="Gitlab">
   <img src="https://skillicons.dev/icons?i=gitlab" />
 </a>
 
 
-<a href="mailto:faysalelallaoui0@gmail.com" style="text-decoration: none; color: inherit;">
+<a href="mailto:faysalelallaoui0@gmail.com?subject=Hello&body=Hi%20Faysal," alt="Gmail" >
   <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
 
-<a href="https://www.stackoverflow.com/users/faysal" style="text-decoration: none; color: inherit;">
+<a href="https://www.stackoverflow.com/users/faysal" alt="Stackoverflow">
   <img src="https://skillicons.dev/icons?i=stackoverflow" />
 </a>
 </p>
